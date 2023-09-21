@@ -62,7 +62,7 @@ header ul li a:hover {
 
 .banner {
   height: 60vh;
-  background-image: url(/assets/images/sma.jpg);
+  background-image: url(../images/sma.jpg);
   background-size: cover;
   position: relative;
   display: flex;
